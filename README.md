@@ -25,6 +25,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dipuchaudhary"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dipuchaudhary" /></a> &nbsp;</p><br><br>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipuchaudhary&show_icons=true&locale=en&layout=compact" alt="dipuchaudhary" /></p>
 <br/><br/>
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=dipuchaudhary&show_icons=true&locale=en" alt="dipuchaudhary" /></p>
