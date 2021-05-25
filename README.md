@@ -39,8 +39,8 @@
 
 </details>
 
-<p><img align="left" src="https://readme-stats-smoky-sigma.vercel.app/api/top-langs?username=dipuchaudhary&show_icons=true&locale=en&layout=compact" alt="dipuchaudhary" /> </p>
-<p>&nbsp;<img align="center" src="https://dipuchaudhary.vercel.app/api?username=dipuchaudhary&show_icons=true&locale=en" alt="dipuchaudhary" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipuchaudhary&show_icons=true&locale=en&layout=compact" alt="dipuchaudhary" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipuchaudhary&show_icons=true&locale=en" alt="dipuchaudhary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipuchaudhary&" alt="dipuchaudhary" /></p>
 
