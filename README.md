@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipuchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="dipuchaudhary" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipuchaudhary" alt="dipuchaudhary" /></a> </p>
-<p align="left"> <a href="https://dipuchaudhary.com.np/" target="blank"><img src="https://img.shields.io/website?label=dipuchaudhary.com.np&style=for-the-badge&url=https://www.dipuchaudhary.com.np" alt="dipuchaudhary.com.np" /></a> </p>
-<p align="left"> <a href="https://twitter.com/imdipuchaudhary" target="blank"><img src="https://img.shields.io/twitter/follow/imdipuchaudhary?logo=twitter&style=for-the-badge" alt="imdipuchaudhary" /></a> </p>
+<p align="left"> <a href="https://dipuchaudhary.com.np/" target="blank"><img src="https://img.shields.io/website?label=dipuchaudhary.com.np&style=for-the-badge&url=https://www.dipuchaudhary.com.np" alt="dipuchaudhary.com.np" /></a> <a href="https://twitter.com/imdipuchaudhary" target="blank"><img src="https://img.shields.io/twitter/follow/imdipuchaudhary?logo=twitter&style=for-the-badge" alt="imdipuchaudhary" /></a></p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dipuchaudhary?tab=repositories](https://github.com/dipuchaudhary)
 
