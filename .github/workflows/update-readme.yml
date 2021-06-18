@@ -1,8 +1,10 @@
 name: GitHub - Activity - Readme
 
-on:
+on: 
+  push:
+  pull_request:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,3 +16,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
