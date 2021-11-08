@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#369](https://github.com/wpeverest/user-registration/pull/369) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-2. 💪 Opened PR [#368](https://github.com/wpeverest/user-registration/pull/368) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-3. 💪 Opened PR [#367](https://github.com/wpeverest/user-registration/pull/367) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-4. 💪 Opened PR [#362](https://github.com/wpeverest/user-registration/pull/362) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-5. 💪 Opened PR [#359](https://github.com/wpeverest/user-registration/pull/359) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+1. 💪 Opened PR [#371](https://github.com/wpeverest/user-registration/pull/371) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+2. 💪 Opened PR [#369](https://github.com/wpeverest/user-registration/pull/369) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+3. 💪 Opened PR [#368](https://github.com/wpeverest/user-registration/pull/368) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+4. 💪 Opened PR [#367](https://github.com/wpeverest/user-registration/pull/367) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+5. 💪 Opened PR [#362](https://github.com/wpeverest/user-registration/pull/362) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
 <!--END_SECTION:activity-->
 
 </details>
